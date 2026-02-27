@@ -12,10 +12,10 @@ Got to http://localhost:8080/docs/#/Example%20Resource/get_example
 
 Click "Try it out" then "Execute". 
 
-## Expected behavior
+### Expected behavior
 
 Should send a GET request and get a response with the parms included in the request. 
-## Actual behavior
+### Actual behavior
 
 Unable to pass the default validation with the error: 
 
