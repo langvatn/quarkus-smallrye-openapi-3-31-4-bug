@@ -1,0 +1,1 @@
+# quarkus-smallrye-openapi-3-31-4-bug
